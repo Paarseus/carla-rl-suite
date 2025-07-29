@@ -1,8 +1,7 @@
-# PROGRESS REPORT
-## CARLA SIMULATION & REINFORCEMENT LEARNING
+## PROGRESS REPORT <br> CARLA SIMULATION & REINFORCEMENT LEARNING
 
-**Date:** 29 July 2025   
-**Contributors:** Parsa Ghasemi, Alexander Assal  
+### **Contributors:** Parsa Ghasemi, Alexander Assal  
+### **Date:** 29 July 2025   
 ---
 
 ## Executive Summary
